@@ -1,2 +1,9 @@
 # Serverpack1
-Approximaster Studios 2004 System Serverpack. Do Not Change!
+Rainbow Network Serverpack. Do Not Change!
+
+# System Explanation
+usually, it's 50% ViaProxy and 50% Bungeecord.
+unfortunately, it doesnt fit on my small computer. so i need to build another computer.
+
+# address
+`address_port_version.viaproxy.hostname`
